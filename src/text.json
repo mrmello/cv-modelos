@@ -1,0 +1,33 @@
+{
+  "name": "Angélica M. Lapinski",
+  "profession": "Cirurgiã-Dentista",
+  "intro": "Cirurgiã-dentista proativa, dedicada e em constante aprendizado. Adoraria a oportunidade de uma entrevista na qual espero poder demonstrar o valor que traria para sua clínica.",
+  "contacts": [
+    {
+      "key": "Telefone",
+      "value": "(54) 99651-1270"
+    },
+    {
+      "key": "E-mail",
+      "value": "angelica_lapinski@hotmail.com"
+    }
+  ],
+  "experiences": [
+    {
+      "contractor": "Prefeitura Municipal Timbó Grande/SC",
+      "period": {
+        "begin": "08/2020",
+        "end": "12/2020"
+      },
+      "role": "Cirurgiã-dentista 40h",
+      "items": [
+        "Pratiquei diversas exodontias;",
+        "Realizei o pré-natal odontológico de diversas gestantes do município;",
+        "Atendimento de crianças;",
+        "Trabalhei com odontologia preventiva inclusive no interior do município;",
+        "Realizei diversos procedimentos de urgência, como acessos endodônticos, drenagem de abcessos periodontais e alveolites;",
+        "Desenvolvi papel chave na prevenção e saúde bucal de centenas de pacientes."
+      ]
+    }
+  ]
+}
